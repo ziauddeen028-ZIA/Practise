@@ -1,3 +1,5 @@
 Today i am learning git & github 
 
 topic is : ADD and COMMIT
+
+Git diff helps us identify code changes.
